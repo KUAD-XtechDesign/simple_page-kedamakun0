@@ -38,7 +38,7 @@ h1.name{
   font-size: 20px;
   padding-left: 10px;
   margin-bottom: 10px;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 /* 経歴部分 */
@@ -50,6 +50,7 @@ h2.title{
 
 .profile{
   padding: 10px;
+  color: #fbf8f8;
 }
 
 ul.history_list li{
